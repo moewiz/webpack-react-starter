@@ -1,9 +1,4 @@
-# Redux Form Example
----
-
-Welcome to Summoner's Rift
-
-
+# Webpack React starter
 
 Usage
 ---
