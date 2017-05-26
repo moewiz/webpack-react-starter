@@ -10,6 +10,6 @@ cd your_app_name
 npm install
 npm start
 ```
-Open [http://localhost:3000](http://localhost:3000)
+The app is running at [http://localhost:3000](http://localhost:3000)
 
 Have fun!
