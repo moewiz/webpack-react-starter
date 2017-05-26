@@ -1,23 +1,15 @@
 # Webpack React starter
 
-Usage
+Tutorial
 ---
+Clone project, install required dependencies, and start development server.
 
-Start the development server with this command:
 ```
+git clone https://github.com/moewiz/webpack-react-starter.git your_app_name
+cd your_app_name
+npm install
 npm start
 ```
+Open [http://localhost:3000](http://localhost:3000)
 
-Setup
----
-
-```
-npm install
-```
-
-Compile
----
-
-```
-npm run compile
-```
+Have fun!
