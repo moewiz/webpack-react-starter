@@ -1,15 +1,15 @@
 {
   "name": "redux-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "webpack react starter",
   "main": "index.js",
   "scripts": {
     "compile": "webpack",
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["react", "webpack"],
+  "author": "Khoa Nguyen",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.24.1",
